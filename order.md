@@ -12,3 +12,4 @@
 | @kio MIW@                        | ある楽器について                                                  |
 | tsuda.a                          | TBD                                                               |
 | @mako_wis                        | 広島で話したアレ                                                  |
+| kotanin                          | テキストネック                                                    |
